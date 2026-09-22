@@ -1,1 +1,1 @@
-
+I want you to create a promotional film poster that depicts a alien monument towering over a group of scientist in a dusty desert environment. Make the monument a large stone alien face with high contrast with shadows streaking across the face . the shadows should also cast over most of the environment to give it a foreboding mood. Have the scientist drag some flexible pipes making lines drawing the viewers attention to them. Make the environment have a jagged triangular texture that spikes up giving the monument a hostile undertone.
