@@ -2,7 +2,7 @@ Assignment Title: Visual Prompt Studio 1.2
 
 Image Prompt 
 
-I am a lead graphic designer hired by a major music label and need to create a retro 1980s album cover. I want it to be reminiscent of tron movie poster with a sunset flanked by mountain ranges on both side and two characters in the center of the composition have the characters silhouette on the sunset . Put two light bike riders coming down from both upper corners to the center of the composition to create balance. Put a neon grid pattern at the bottom of the composition stretching all the way to the sunset to give a sense of scale. 
+I am a lead graphic designer hired by a major music label and need to create a retro 1980s album cover. I want it to be reminiscent of tron movie poster with a sunset flanked by mountain ranges on both side and two characters in the center of the composition have the characters silhouette on the sunset . Put two light bike riders coming down from both upper corners to the center of the composition to create balance. Make the bike riders different colors to add variety. Put a neon grid pattern at the bottom of the composition stretching all the way to the sunset to give a sense of scale. 
 
 Vocab
 
