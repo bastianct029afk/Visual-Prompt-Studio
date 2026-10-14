@@ -1,3 +1,4 @@
+<img width="3000" height="4000" alt="20261014_100303" src="https://github.com/user-attachments/assets/933ffb3c-e0a6-4c10-b455-7f1e846227df" />
 Assignment Title: Visual Prompt Studio  Phase 1.1 
 
 Image Prompt 
@@ -14,3 +15,4 @@ Contrast is when two of the same art elements are used in very different ways to
 
 <img width="1054" height="1492" alt="ChatGPT Image Oct 5, 2026, 08_50_16 AM" src="https://github.com/user-attachments/assets/11f055b2-cf51-4a4b-a4d6-1c4483367187" />
 <img width="1024" height="1536" alt="Aeon_ The Sleeping Monolith" src="https://github.com/user-attachments/assets/00131028-333e-44db-8584-bd5729c49810" />
+<img width="3000" height="4000" alt="20261014_100303" src="https://github.com/user-attachments/assets/933ffb3c-e0a6-4c10-b455-7f1e846227df" />
