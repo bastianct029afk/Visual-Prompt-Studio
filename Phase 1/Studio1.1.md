@@ -1,4 +1,4 @@
-<img width="3000" height="4000" alt="20261014_100303" src="https://github.com/user-attachments/assets/933ffb3c-e0a6-4c10-b455-7f1e846227df" />
+
 Assignment Title: Visual Prompt Studio  Phase 1.1 
 
 Image Prompt 
