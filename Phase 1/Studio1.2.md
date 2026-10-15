@@ -1,3 +1,4 @@
+
 Assignment Title: Visual Prompt Studio 1.2
 
 Image Prompt 
@@ -13,4 +14,4 @@ Balance is when there is equal amount of visual weight on both sides of the comp
 Rhythm is when a art element is repeated in a organized fashion.
 
 <img width="1254" height="1254" alt="ChatGPT Image Oct 5, 2026, 09_24_21 AM" src="https://github.com/user-attachments/assets/6c44073a-24d9-4873-a723-5cdc8fdad687" />
-
+<img width="3000" height="4000" alt="20261015_090345" src="https://github.com/user-attachments/assets/5c3982b0-ff89-45a4-9d46-bac9934f13d5" />
