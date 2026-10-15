@@ -6,11 +6,11 @@ I am a lead graphic designer hired by a major music label and need to create a r
 
 Vocab
 
-Value
-Space
-Unity
-Balance
-Rhythm
+Value is how light or dark any part of a composition is. 
+Space is a defined area in a composition. A space can be positive, mainly the subject of the of the composition, or negative, being the empty space around the subject.
+Unity is when multiple components share the same type of some art element across a composition.
+Balance is when there is equal amount of visual weight on both sides of the composition.
+Rhythm is when a art element is repeated in a organized fashion.
 
 <img width="1254" height="1254" alt="ChatGPT Image Oct 5, 2026, 09_24_21 AM" src="https://github.com/user-attachments/assets/6c44073a-24d9-4873-a723-5cdc8fdad687" />
 
